@@ -1,6 +1,3 @@
-Certainly! Here's an updated version of the text-based adventure game with some changes to functions and messages:
-
-```python
 import time
 
 def print_slow(text):
